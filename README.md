@@ -32,7 +32,7 @@ _Things that I have finished, may not work on again._
   - Resource-Constrained Real-Time Video OCR, IFB102: Computer Systems final project, Apr 2025 - May 2025.
 ---
 ## What I might do in near future:
-_Ideas for future projects, maybe a mix between Machine Learning and real-tine systems..._
+_Ideas for future projects, maybe a mix between Machine Learning and real-tine systems._
 ---
   - Resource-Constrained Real-Time Video Analytics System with Object Detection.
   - A Cloud computing project.
