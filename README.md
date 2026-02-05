@@ -19,10 +19,16 @@ Pandas, TensorFlow, FFmpeg
 # Projects:
 *Either a part of my coursework, or a personal project.*
 In progress: 
+---
   - High Performance Matrix Multiplication, Personal project, Jan 2026 - current.
+---
 Completed:
+---
   - PDF merger, Personal project, Oct 2025 - Oct 2025
   - Resource-Constrained Real-Time Video OCR, IFB102: Computer Systems final project, Apr 2025 - May 2025.
+---
 What I might do in near future:
+---
   - Resource-Constrained Real-Time Video Analytics System with Object Detection.
   - A Cloud computing project.
+---
