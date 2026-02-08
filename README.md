@@ -16,7 +16,7 @@ Languages:
 Python, C/C++, C#
 
 Frameworks and Libraries:
-Pandas, TensorFlow, FFmpeg
+Pandas, TensorFlow, cv2 (OpenCV), pytesseract, Ultralytics YOLO
 
 # Projects:
 _These are either a part of my coursework, or a personal project._
@@ -24,6 +24,7 @@ _These are either a part of my coursework, or a personal project._
 _Things that I am working on_
 ---
   - High Performance Matrix Multiplication, Personal project, Jan 2026 - current.
+  - Object detection on resource-constrained hardware, Jan 2026 - current.
 ---
 ## Completed:
 _Things that I have finished, may not work on again._
