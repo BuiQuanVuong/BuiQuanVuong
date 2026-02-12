@@ -23,12 +23,12 @@ _These are either a part of my coursework, or a personal project._
 ## In progress:
 _Things that I am working on_
 ---
-  - High Performance Matrix Multiplication, Personal project, Jan 2026 - current.
-  - Object detection on resource-constrained hardware, Jan 2026 - current.
+  - OCR system, Feb 2026 - current. Note: no repo yet, still working on the MVP on local machine.
 ---
 ## Completed:
 _Things that I have finished, may not work on again._
 ---
+  - High Performance Matrix Multiplication, Personal project, Jan 2026 - Feb 2026.
   - PDF merger, Personal project, Oct 2025 - Oct 2025
   - Resource-Constrained Real-Time Video OCR, IFB102: Computer Systems final project, Apr 2025 - May 2025.
 ---
