@@ -16,7 +16,7 @@ Languages:
 Python, C/C++, C#
 
 Frameworks and Libraries:
-Pandas, TensorFlow, cv2 (OpenCV), pytesseract, Ultralytics YOLO
+Pandas, NumPy, TensorFlow, cv2 (OpenCV), pytesseract, Ultralytics YOLO
 
 # Projects:
 _These are either a part of my coursework, or a personal project._
